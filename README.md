@@ -1,6 +1,6 @@
 # iw-starter-code
 
-Welcome to the Independent Work (IW) seminar! In thi`s guide, we will walk you through the essential steps to set up your code repository for your project. In case you would like a certain topic covered here, please let the TAs know over Slack.
+Welcome to the Independent Work (IW) seminar 05/06 Spring 2024! In this guide, we will walk you through the essential steps to set up your code repository for your project. In case you would like a certain topic covered here, please let the TAs know over Slack.
 
 ## Table of contents
 - [Conda Environment Setup](docs/1-conda-env-setup.md)
