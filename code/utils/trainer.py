@@ -1,4 +1,5 @@
-# code.trainer.py
+# code/trainer.py
+
 import tqdm
 import torch
 
