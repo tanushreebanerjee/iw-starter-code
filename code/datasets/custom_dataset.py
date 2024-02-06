@@ -1,3 +1,5 @@
+# datasets/custom_dataset.py
+
 from torch.utils.data import Dataset
 
 # Define Custom Dataset
@@ -18,3 +20,6 @@ class CustomDataset(Dataset):
             image = self.transform(image)
 
         return image, target
+    
+    def __repr__(self):
+        return f"CustomDataset: (data: {self.data.shape}, targets: {self.targets.shape})"
